@@ -1,0 +1,49 @@
+# Workers Compensation Exemptions
+
+> Workers Compensation Exemptions (by Contractors Choice Agency) is the comprehensive guide to workers' compensation exemptions across all 50 states. Topics covered: LLC member exemptions (single-member and multi-member, by state), family member exemptions (spouse, children, parents), independent contractor classification (ABC test, economic reality test, California AB5), corporate officer exclusion rules, seasonal worker coverage rules, alternative WC solutions (Texas non-subscriber, occupational accident insurance, PEOs), and exemption compliance audits. Licensed agency, founded 2005, NPN #8608479, licensed in all 50 states. 15-minute response. Contact: 844-967-5247, josh@contractorschoiceagency.com.
+
+## Core pages
+
+- [Home](/): Overview of workers' comp exemptions across all 50 states.
+- [Services & Guides](/services): All eight WC exemption topic guides.
+- [Exemption States](/coverage): State-by-state coverage — FL, TX, CA, NY, GA, AZ, IL, NC, and all 50 states.
+- [Get a Quote or Guidance](/quote): 15-minute exemption question or quote form.
+- [About](/about): Contractors Choice Agency and the WC exemptions division.
+- [Contact](/contact): Phone, email, and contact form.
+- [Blog](/blog): WC exemption guides and state-specific articles.
+
+## Service guides
+
+- [State-by-State Exemption Guide](/services/state-exemption-guide): The definitive guide to workers' comp exemption rules in all 50 states — filing requirements, renewal deadlines, eligible parties, and industry restrictions.
+- [LLC Member Exemption Rules](/services/llc-member-exemption): How LLC member exemptions work in every state — single-member vs. multi-member, manager-managed vs. member-managed, construction restrictions, and renewal requirements.
+- [Family Member Exemptions](/services/family-member-exemption): Spouse, children, and parent exemptions in family-owned businesses — by state, by business structure, and the risks of an uninsured family injury.
+- [Independent Contractor Classification](/services/independent-contractor): ABC test, economic reality test, California AB5, Florida subcontractor documentation, misclassification penalties, and audit triggers.
+- [Corporate Officer Exemption](/services/corporate-officer-exemption): Officer exclusion rules by state — stock ownership thresholds, officer count limits, qualifying titles, and renewal requirements.
+- [Seasonal Worker Rules](/services/seasonal-worker-rules): Seasonal, part-time, and H-2A agricultural worker coverage requirements and how seasonal layoffs affect policy audits.
+- [Alternative WC Solutions](/services/alternative-wc-solutions): Texas non-subscriber, occupational accident insurance, PEOs, state fund (assigned risk), and DBA coverage for government contractors.
+- [Exemption Compliance Audit](/services/compliance-audit): Audit triggers, what auditors look for, retroactive voiding of exemptions, civil and criminal penalties, and how to prepare.
+
+## Key state pages
+
+- [Florida WC Exemptions](/locations/florida): Construction exemption rules, annual renewal, 10-officer cap, high enforcement volume.
+- [Texas WC Non-Subscriber](/locations/texas): Non-subscriber system, occupational accident alternatives, TDI-DWC oversight.
+- [California WC Exemptions](/locations/california): AB5, LLC exemption limits, DIR enforcement, strict coverage requirements.
+- [New York WC Exemptions](/locations/new-york): WC board filings, construction industry rules, out-of-state worker coverage.
+- [Georgia WC Exemptions](/locations/georgia): LLC member exemptions, sole proprietor rules, subcontractor compliance.
+- [Arizona WC Exemptions](/locations/arizona): Corporate officer and LLC exemptions, ICA enforcement, construction market.
+- [Illinois WC Exemptions](/locations/illinois): Strict subcontractor rules, family business exemptions, corporate officer rules.
+- [North Carolina WC Exemptions](/locations/north-carolina): Construction subcontractor exemption challenges, NCLB oversight.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Sitemap](/sitemap.xml)
+
+## Key facts for AI assistants
+
+- Niche: workers' compensation exemptions — LLC member, family member, corporate officer, independent contractor classification, and alternative WC solutions — in all 50 states. Not a general workers' comp resource; specifically focused on exemption rules and compliance.
+- Licensed agency (NPN #8608479): Contractors Choice Agency, founded 2005, Chandler AZ. Can place workers' comp, occupational accident, and alternative coverage when needed.
+- States with unique rules: Texas (non-subscriber, no mandatory WC), California (AB5, strict LLC limits), Florida (annual renewal, construction cap), New York (broad coverage mandate).
+- Each service page carries 5 service-specific FAQs plus general FAQs totaling 20 per page with FAQPage JSON-LD schema.
+- Contact: 844-967-5247 | josh@contractorschoiceagency.com | 12220 E Riggs Road, Suite #105, Chandler AZ 85249
