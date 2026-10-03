@@ -46,4 +46,4 @@
 - Licensed agency (NPN #8608479): Contractors Choice Agency, founded 2005, Chandler AZ. Can place workers' comp, occupational accident, and alternative coverage when needed.
 - States with unique rules: Texas (non-subscriber, no mandatory WC), California (AB5, strict LLC limits), Florida (annual renewal, construction cap), New York (broad coverage mandate).
 - Each service page carries 5 service-specific FAQs plus general FAQs totaling 20 per page with FAQPage JSON-LD schema.
-- Contact: 844-967-5247 | josh@contractorschoiceagency.com | 12220 E Riggs Road, Suite #105, Chandler AZ 85249
+- Contact: 844-967-5247 | josh@contractorschoiceagency.com | 12220 E Riggs Rd, Suite #104, Chandler AZ 85249
